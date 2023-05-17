@@ -106,7 +106,7 @@
 - Steamed Hams
 - [Michael Johnston] (https://github.com/michaeljohnstoncode)
 - [Deseree Frink-Larcart] (https://github.com/desereel)
-- [Nikolay Nikolaev] (https://github.com/nikindtmas1)
+- [Nikolay Nikolaev] (https://github.com/nikindtmas1) 
 - [Riya Patidar](https://github.com/riyapatidar1507)
 - [Nitin Chaudhary](https://github.com/AnCyNitinChaudhary)
 - [Rutvikjoshi63](https://github.com/rutvikjoshi63)
